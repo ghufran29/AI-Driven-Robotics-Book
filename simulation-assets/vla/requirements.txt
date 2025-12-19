@@ -1,0 +1,27 @@
+# OpenAI and Language Models
+openai>=1.0.0
+langchain>=0.0.300
+langchain-openai>=0.0.5
+
+# Audio Processing
+pyaudio>=0.2.11
+SpeechRecognition>=3.10.0
+
+# Vision and Image Processing
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.35.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# ROS 2 Integration
+rclpy>=3.0.0
+
+# Configuration and Utilities
+pyyaml>=6.0
+python-dotenv>=1.0.0
+requests>=2.30.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0

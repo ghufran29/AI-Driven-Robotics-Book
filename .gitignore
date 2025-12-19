@@ -1,0 +1,248 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.git-rebase-todo.backup
+.hypothesis/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# Sage
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Docusaurus
+.docusaurus/
+.build/
+dist/
+node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# NVIDIA Isaac Sim specific
+isaac_sim/
+isaac-sim/
+~isaac-sim/
+isaac-sim-*
+*.usd
+*.usda
+*.usdc
+isaac_assets/
+isaac-sim-cache/
+isaac-sim-cache-*
+isaac-sim-data/
+isaac-sim-logs/
+isaac-sim/cache/
+isaac-sim/logs/
+isaac-sim/configs/
+isaac-sim/exts/
+isaac-sim/kit/
+isaac-sim/kit/logs/
+isaac-sim/kit/cache/
+
+# Isaac ROS specific
+isaac_ros_common/
+isaac_ros_dev/
+isaac_ros_workspace/
+isaac_ros_ws/
+
+# CUDA/graphics related
+*.cu
+*.cubin
+*.fatbin
+*.ptx
+cuda_samples/
+cuda-work/
+.nv/
+.nvvp/
+nvvp/
+nvprof/
+
+# Simulation and physics
+*.sdf
+*.urdf
+*.xacro
+*.dae
+*.obj
+*.fbx
+*.blend
+*.ma
+*.mb
+*.max
+*.3ds
+*.stl
+*.ply
+*.gltf
+*.glb
+*.mtl
+
+# Navigation and mapping
+*.pgm
+*.yaml
+*.yml
+*.map
+*.nav
+*.path
+costmap_*
+global_costmap*
+local_costmap*
+
+# Synthetic data and training
+synthetic_data/
+synthetic_data_*/
+synthetic-images/
+synthetic-labels/
+datasets/
+training_data/
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.tfrecord
+*.record
+*.pickle
+*.pkl
+
+# USD specific
+*.usdz
+*.usdza
+*.usdzr
+usd_files/
+usd_scenes/
+usd_assets/
+
+# Isaac Sim Replicator
+replicator_data/
+replicator_output/
+replicator_assets/

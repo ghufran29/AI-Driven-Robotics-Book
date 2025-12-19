@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch --all --prune)",
+      "Bash(echo \"features {\n  display: flex;\n  align-items: center;\n  padding: 2rem 0;\n  width: 100%;\n}\n\n.featureSvg {\n  height: 200px;\n  width: 200px;\n}\")"
+    ]
+  }
+}
