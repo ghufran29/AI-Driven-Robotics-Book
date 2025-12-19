@@ -142,15 +142,15 @@ const config = {
               },
               {
                 label: 'ROS 2 Framework',
-                to: '/docs/ros2',
+                to: '/docs/module-01-ros2-fundamentals/foundational-concepts',
               },
               {
                 label: 'Simulation Environments',
-                to: '/docs/simulation',
+                to: '/docs/module-02-digital-twin/laws-of-physics-gazebo',
               },
               {
-                label: 'Generative AI Integration',
-                to: '/docs/genai',
+                label: 'AI-Robot Brain',
+                to: '/docs/module-03-isaac-brain/omniverse-isaac',
               },
             ],
           },
@@ -183,8 +183,8 @@ const config = {
                 href: 'https://example.com/papers',
               },
               {
-                label: 'Tutorials',
-                to: '/docs/category/tutorials',
+                label: 'Quick Start',
+                to: '/docs/module-01-ros2-fundamentals/quickstart',
               },
             ],
           },
